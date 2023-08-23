@@ -10,6 +10,7 @@
 
 body {
   font-family: 'DM Sans', sans-serif;
+  color: #5a5855;
 }
 
 img {
@@ -20,7 +21,7 @@ img {
 
 header a {
   text-decoration: none;
-  color: rgb(211, 155, 155);
+  color: rgb(211, 196, 155);
 }
 
 header a.logo {
