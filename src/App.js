@@ -11,7 +11,7 @@ function App() {
         </nav>
       </header>
 
-      <div className='grid md:grid-cols-3 gap-4 lg:mx-16'>
+      <div className='grid md:grid-cols-3 md:gap-4 xl:mx-14'>
         <div id="post1" className="p-6 lg:p-14">
           <div className="rounded-lg overflow-hidden mb-4">
             <img src="https://www.keyboardco.com/product-images/filco_minila_air_bluetooth_cream_and_green_keyboard_us_large_7.jpg" alt="broken" className='w-full h-auto object-cover' style={{ aspectRatio: '4/5' }}/>

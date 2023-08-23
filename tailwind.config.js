@@ -9,7 +9,6 @@ module.exports = {
       'logo': 'Libre Caslon Text'
     },
     screens: {
-      // Example custom breakpoints
       'sm': '640px',
       'md': '768px',
       'lg': '1024px',
