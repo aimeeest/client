@@ -14,7 +14,7 @@ function App() {
       <div className='grid md:grid-cols-3 gap-4 lg:mx-16'>
         <div id="post1" className="p-6 lg:p-14">
           <div className="rounded-lg overflow-hidden mb-4">
-            <img src="https://oblotzky.industries/cdn/shop/products/gmk_umka_keyboard_bauer_persp_right_close.jpg?v=1612530718" alt="broken" className='w-full h-auto object-cover' style={{ aspectRatio: '4/5' }}/>
+            <img src="https://www.keyboardco.com/product-images/filco_minila_air_bluetooth_cream_and_green_keyboard_us_large_7.jpg" alt="broken" className='w-full h-auto object-cover' style={{ aspectRatio: '4/5' }}/>
           </div>
           <div>
             <time className='text-[0.8rem] text-[#e6e3d2]'>August 23, 2023 4:00pm</time>
@@ -26,7 +26,7 @@ function App() {
 
         <div id="post2" className="p-6 lg:p-14">
           <div className="rounded-lg overflow-hidden mb-4">
-            <img src="https://assets.catawiki.com/image/pr:cw_ldp_l/plain/assets/catawiki/assets/2017/10/11/0/b/9/0b9ca923-1ff0-4795-9edf-fd0c1c479b39.jpg" alt="broken" className='w-full h-auto object-cover' style={{ aspectRatio: '4/5' }}/>
+            <img src="https://img.vntg.com/16057259957997/uten-silo-i-wall-organizer-by-dorothee-becker-for-design-m-1969.jpg" alt="broken" className='w-full h-auto object-cover' style={{ aspectRatio: '4/5' }}/>
           </div>
           <div>
             <time className='text-[0.8rem] text-[#e6e3d2]'>August 23, 2023 4:00pm</time>
@@ -37,7 +37,7 @@ function App() {
 
         <div id="post3" className="p-6 lg:p-14">
           <div className="rounded-lg overflow-hidden mb-4">
-            <img src="https://www.cashmerism.com.au/media/catalog/product/cache/1/small_image/508x705/9df78eab33525d08d6e5fb8d27136e95/8/t/8tp0230_oatmeal_6.jpg" alt="broken" className='w-full h-auto object-cover' style={{ aspectRatio: '4/5' }}/>
+            <img src="https://www.clubmonaco.com/dw/image/v2/BGJB_PRD/on/demandware.static/-/Sites-masterCatalog_ClubMonaco/default/dw1675e482/hi-res/cm-1432245_lifestyle.jpg?sw=1068&sh=1436&sfrm=jpg" alt="broken" className='w-full h-auto object-cover' style={{ aspectRatio: '4/5' }}/>
           </div>
           <div>
             <time className='text-[0.8rem] text-[#e6e3d2]'>August 23, 2023 4:00pm</time>
